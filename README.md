@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Clau</h1>
-<h3 align="center">Trabajando para convertirte en Fullstack Developer con background en Contabilidad y Finanzas</h3>
+<h3 align="center">Trabajando para convertirme en Fullstack Developer con background en Contabilidad y Finanzas</h3>
 
 - 🌱 I’m currently learning **DAW, practicing JAVA, JS, Spring, SQL, HTML & CSS**
 
